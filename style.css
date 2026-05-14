@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+h1,h2{
+    color:#333;
+}
+
+table{
+    width:80%;
+    margin:auto;
+    border-collapse:collapse;
+    background:white;
+}
+
+table,th,td{
+    border:1px solid black;
+}
+
+th{
+    background:#007bff;
+    color:white;
+    padding:10px;
+}
+
+td{
+    padding:10px;
+}
+
+.box{
+    margin-top:40px;
+}
+
+a{
+    text-decoration:none;
+    background:#007bff;
+    color:white;
+    padding:12px 20px;
+    border-radius:5px;
+}
